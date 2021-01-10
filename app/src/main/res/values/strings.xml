@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">EzyFoody</string>
+    <string name="my_order">My Order</string>
+    <string name="my_order_title">My Order</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_top">Welcome to EzyFoody.
+        Swipe OR click on type of food to order food </string>
+    <string name="buton">Confirm </string>
+    <string name="buton1">Pick Store </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="drinks">
+        <item>Air Mineral</item>
+        <item>Jus Mangga</item>
+        <item>Jus Apel</item>
+        <item>Jus Alpukat</item>
+    </string-array>
+    <string-array name="snacks">
+        <item>Kentang Goreng</item>
+        <item>Keripik Kentang</item>
+        <item>Tahu Goreng</item>
+        <item>Batagor</item>
+    </string-array>
+    <string-array name="foods">
+        <item>Nasi Goreng</item>
+        <item>Mie Goreng</item>
+        <item>Sop buntut</item>
+        <item>Soto Mie</item>
+    </string-array>
+    <string-array name="topups">
+        <item>Bank</item>
+        <item>Gopay</item>
+        <item>OVO</item>
+        <item>Pulsa</item>
+    </string-array>
+    <string name="home_tab">Home</string>
+    <string name="drink_tab">Drink</string>
+    <string name="snack_tab">Snack</string>
+    <string name="food_tab">Food</string>
+    <string name="topup_tab">Top Up</string>
+    <string name="quantity">Input quantity</string>
+    <string name="topup">Input balance</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
